@@ -1,11 +1,5 @@
-# Obsidian Notes
+# My Bibliography and  notes!
 
-Publish your public notes with MkDocs
+My bibliography is [[genius-hour-bibliography|here]]
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Each source has its own notes, and branching notes branching off (such as [[de facto segregation]])
