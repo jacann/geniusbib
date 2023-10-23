@@ -1,0 +1,1 @@
+A [[chicago-housing-authority]] [[public-housing]] project on the north side of [[chicago]]. [[crime]] and neglect created hostile living conditions, and would eventually would be torn down.

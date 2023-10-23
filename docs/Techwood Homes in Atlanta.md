@@ -1,0 +1,4 @@
+- The first PWA project
+- Built on land cleared by demolishing the Flats "a low-income integrated neighborhood" that was about one third black
+- The PWA remade the neighborhoods for white families only
+- [[created ghettos]] and intensified segregation by forcing African Americans who were evicted from their homes into areas already populated by African Americans

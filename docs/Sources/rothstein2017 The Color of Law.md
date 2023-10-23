@@ -35,8 +35,6 @@
 - The term *ghetto* will be explicitly used, as it is the correct word for describing the phenomena
 - *Diversity* will not be used, it avoids confronting a history of racial exclusion
 - *People of color* will be avoided, as this text discusses practices that singled out African Americans.
-
-
 ## If San Francisco, Then Everywhere?
 > This chapter investigates segragation in the San Francisco area during and in the years after WWII
 ### 1. Richmond, WWII, and Housing Policy (Frank Stevenson)
@@ -92,6 +90,27 @@
 ### Endnotes
 - In San Francisco, the Federal Government imposed segregation where it hadn't previously taken root.
 ## Public Housing, Black Ghettos
+> The federal government purposefully used public housing to create urban ghettos.
+
+- When public housing began in the mid-twentieth century, "public housing was mostly for working- and lower-middle-class white families"
+- Original purpose of public housing was to give shelter to those who could afford decent housing, but no housing was avaiable
+### 1. New Deal separation, segregation, and exclusion 
+- Franklin D. Roosevelt's [[New Deal]] created the nation's first public housing for civilians who were not engaged in defense work.
+	- *"The administration constructed separate projects for African Americans, segregated buildings by race, or excluded African Americans entirely from developments"* (19)
+	- Tennessee Valley Authority created model village for employees, but the village was open only to whites
+		- African American workers lived in "shoddy barracks some distance away"
+		- *"Negros do not fit into the program"* (19)
+	- Civilian Conservation Corps (CCC) "established work camps for jobless youth and young adults"
+		- NJ refused to allow any camps for African Americans
+		- Some camps were initially integrated, but federal officials ordered racial segregation
+		- Some State/local governments forbid CCC camps within their boarders
+			- Gettysburg project, white crew housed near town whereas African American crew were housed 20 miles away
+### 2. Roosevelt administration reform, Public Works Administration
+- Public Works Administration (PWA) goal was to "alleviate a national housing shortage while creating jobs in construction."
+	- [[Harold Ickes]] directed the effort
+	- Ickes' efforts resulted in one-third of units being occupied by African Americans
+	- This was due to a "[[neighborhood composition rule]]," where federal housing projects had to match the previous racial composition of the neighborhood was in (white/integrated/black)
+		- Despite this rule, the "[[PWA segregated projects when there was no previous pattern of segregation]]"
 ## Racial Zoning
 ## "Own Your Own Home"
 ##
