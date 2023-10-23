@@ -16,3 +16,9 @@ Saelens, Brian E., James F. Sallis, and Lawrence D. Frank. "Environmental correl
 
 Vuchic, Vukan R. "Urban public transportation systems." _University of Pennsylvania, Philadelphia, PA, USA_ 5 (2002): 2532-2558.
 - [[vuchic2002 Urban public transportation systems]]
+
+Roy, Brita, et al. "Identifying county characteristics associated with resident well-being: a population based study." _PLoS One_ 13.5 (2018): e0196720.
+- [[roy2018 Identifying county characteristics associated with resident well-being]]
+
+Brereton, Finbarr, J. Peter Clinch, and Susana Ferreira. "Happiness, geography and the environment." _Ecological economics_ 65.2 (2008): 386-396.
+- [[brereton2008 Happiness, geography, and the environment]]
